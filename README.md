@@ -1,2 +1,3 @@
-# Mustart
-Front-end development starter
+# Mustart Buttons
+
+Default button styles
